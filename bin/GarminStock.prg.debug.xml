@@ -2,82 +2,66 @@
 <debugInfo>
 <pcToLineNum>
 <entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="9" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="10" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="14" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="15" pc="268435483" symbol="onLayout"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="21" pc="268435521" symbol="onShow"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="25" pc="268435526" symbol="startTimer"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="26" pc="268435530" symbol="startTimer"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="27" pc="268435558" symbol="startTimer"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="31" pc="268435594" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="33" pc="268435598" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="34" pc="268435650" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="35" pc="268435662" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="39" pc="268435683" symbol="updateView"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="40" pc="268435687" symbol="updateView"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="46" pc="268435706" symbol="onHide"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="7" pc="268435711" symbol="initialize"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="8" pc="268435715" symbol="initialize"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="12" pc="268435734" symbol="onStart"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="16" pc="268435739" symbol="onStop"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="21" pc="268435744" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="22" pc="268435748" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="23" pc="268435778" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268435802" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="21" pc="268435806" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="22" pc="268435954" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="23" pc="268435979" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="24" pc="268436031" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="25" pc="268436192" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268436217" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="27" pc="268436269" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="28" pc="268436430" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="29" pc="268436455" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="32" pc="268436507" symbol="MainLayout"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="14" pc="268435461" symbol="onLayout"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="15" pc="268435465" symbol="onLayout"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="21" pc="268435503" symbol="onShow"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="27" pc="268435508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="28" pc="268435512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="29" pc="268435548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="31" pc="268435560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="32" pc="268435579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="35" pc="268435634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="37" pc="268435704" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="41" pc="268435732" symbol="updateView"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="42" pc="268435736" symbol="updateView"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockView.mc" lineNum="48" pc="268435755" symbol="onHide"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="8" pc="268435760" symbol="initialize"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="9" pc="268435764" symbol="initialize"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="13" pc="268435783" symbol="onStart"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="17" pc="268435788" symbol="onStop"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="21" pc="268435793" symbol="startTimer"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="22" pc="268435797" symbol="startTimer"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="23" pc="268435825" symbol="startTimer"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="26" pc="268435861" symbol="refreshUI"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="27" pc="268435865" symbol="refreshUI"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="31" pc="268435884" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="32" pc="268435888" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Gururaj\\workspace\\GarminStock\\source\\GarminStockApp.mc" lineNum="33" pc="268435918" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268435942" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="10" symbol="stockView"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="8389349" symbol="justification"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="9" object="true" symbol="GarminStockApp"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8388640" symbol="Lang"/>
-<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="16" method="true" symbol="MainLayout"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8" object="true" symbol="GarminStockView"/>
+<entry id="12" method="true" symbol="refreshUI"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="15" symbol="AppName"/>
-<entry id="18" method="true" symbol="updateView"/>
-<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry id="19" method="true" symbol="updateView"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
 <entry id="8388646" symbol="Timer"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry id="8389065" symbol="locY"/>
-<entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
-<entry id="17" method="true" symbol="startTimer"/>
+<entry id="11" method="true" symbol="startTimer"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="8389348" symbol="font"/>
-<entry id="8389347" symbol="color"/>
-<entry id="12" module="true" symbol="Layouts"/>
+<entry id="14" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry id="8389346" symbol="text"/>
-<entry id="8389063" symbol="identifier"/>
-<entry id="11" module="true" symbol="Menus"/>
-<entry field="true" id="16" symbol="hw"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry field="true" id="18" symbol="hw"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435593" name="timer" stackId="1" startPc="268435530"/>
-<entry endPc="268436544" name="rez_cmp_local_bitmap_6D65AFH0CS" stackId="2" startPc="268435806"/>
-<entry endPc="268436544" name="rez_cmp_local_bitmap_6D65AFH0CS_fontHeight" stackId="3" startPc="268435806"/>
-<entry endPc="268436544" name="rez_cmp_local_bitmap_quote_fontHeight" stackId="7" startPc="268435806"/>
-<entry endPc="268436544" name="rez_cmp_local_bitmap_ticker_fontHeight" stackId="5" startPc="268435806"/>
-<entry endPc="268436544" name="rez_cmp_local_bitmap_ticker" stackId="4" startPc="268435806"/>
-<entry endPc="268436544" name="rez_cmp_local_bitmap_quote" stackId="6" startPc="268435806"/>
+<entry endPc="268435731" name="x" stackId="2" startPc="268435512"/>
+<entry endPc="268435731" name="y" stackId="3" startPc="268435512"/>
+<entry endPc="268435860" name="timer" stackId="1" startPc="268435797"/>
 </localVars>
 <annotations/>
 <functions>
@@ -89,9 +73,6 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="onShow" parent="GarminStockView">
-<documentation/>
-</functionEntry>
-<functionEntry name="startTimer" parent="GarminStockView">
 <documentation/>
 </functionEntry>
 <functionEntry name="onUpdate" parent="GarminStockView">
@@ -113,6 +94,12 @@
 </functionEntry>
 <functionEntry name="onStop" parent="GarminStockApp">
 <param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="startTimer" parent="GarminStockApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="refreshUI" parent="GarminStockApp">
 <documentation/>
 </functionEntry>
 <functionEntry name="getInitialView" parent="GarminStockApp">

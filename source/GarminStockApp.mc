@@ -1,5 +1,6 @@
 using Toybox.Application as App;
-
+using Toybox.Timer as Timer;
+using Toybox.WatchUi as Ui;
 
 class GarminStockApp extends App.AppBase {
 
@@ -15,6 +16,15 @@ class GarminStockApp extends App.AppBase {
     // onStop() is called when your application is exiting
     function onStop(state) {
     	
+    }
+         
+    function startTimer() {
+    	var timer = new Timer.Timer();
+    	timer.start(method(:refreshUI), 2000, false);
+    }
+    
+    function refreshUI() {
+    	stockView.updateView();
     }
     
     // Return the initial view of your application here

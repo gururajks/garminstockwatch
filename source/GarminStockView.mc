@@ -1,13 +1,13 @@
 using Toybox.WatchUi as Ui;
 using Toybox.Application as App;
 using Toybox.System as Sys;
-using Toybox.Timer as Timer;
 using Toybox.Lang;
+using Toybox.Graphics as Gfx;
 
 class GarminStockView extends Ui.View {
 
     function initialize() {
-        View.initialize();
+        
     }
 
     // Load your resources here
@@ -21,18 +21,20 @@ class GarminStockView extends Ui.View {
     function onShow() {
     }
 
-	 
-    function startTimer() {
-    	var timer = new Timer.Timer();
-    	timer.start(method(:updateView), 2000, false);
-    }
+	
     
     // Update the view
     function onUpdate(dc) {
+    	dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_WHITE);
+    	dc.clear();
+    	
+    	var x = dc.getWidth() / 2;
+        var y = (dc.getHeight() / 2) - (3 * dc.getFontHeight(Gfx.FONT_SMALL) / 2);
+        
         // Call the parent onUpdate function to redraw the layout
-        Sys.println("Time:" + Sys.getClockTime().sec.toString());
-        startTimer();
-        View.onUpdate(dc);
+        dc.drawText(x, y, Gfx.FONT_MEDIUM, Sys.getClockTime().sec.toString(), Gfx.TEXT_JUSTIFY_CENTER);
+        
+        Application.getApp().startTimer();        
     }
    
 
